@@ -155,3 +155,21 @@ Undo is powered by a **stack of Command objects**.
 
 ---
 
+## Screenshots
+
+<img width="1401" height="731" alt="Screenshot 2026-01-28 230458" src="https://github.com/user-attachments/assets/b87c0fee-6bd1-4607-9f5a-1d8bf4b38bdf" />
+
+------
+<img width="1767" height="801" alt="Screenshot 2026-01-28 230739" src="https://github.com/user-attachments/assets/cfff7c6d-dffe-4097-9c96-b47463c6b336" />
+
+------
+<img width="1781" height="814" alt="Screenshot 2026-01-28 230816" src="https://github.com/user-attachments/assets/fab5df34-6272-469f-922a-39c31ee8a9a8" />
+
+------
+<img width="1743" height="825" alt="Screenshot 2026-01-28 230848" src="https://github.com/user-attachments/assets/9de3209f-bbfa-4b8e-9990-0c9964034a54" />
+
+------
+<img width="1083" height="422" alt="Screenshot 2026-01-28 231232" src="https://github.com/user-attachments/assets/0c8d4f43-c1aa-4711-ba7a-a3b58d42b4cf" />
+
+------
+
